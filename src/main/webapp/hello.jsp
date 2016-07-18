@@ -8,7 +8,7 @@
     <body>
         <h1>1 Test</h1>
         <h1>2 ${hello}</h1>
-        <h1>3 Hello ${person.firstname} ${person.lastame}</h1>
-        <h1>4 Hello ${customer.customerId} ${customer.firstname} ${customer.lastnname}</h1>
+        <h1>3 ${person.firstname} ${person.secondname}</h1>
+        <h1>4 ${customer.customerId} ${customer.firstname} ${customer.secondname}</h1>
     </body>
 </html>
